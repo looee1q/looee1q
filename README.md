@@ -16,11 +16,14 @@
 <h3 align="left">Stack:</h3>
 
 - Kotlin
+- Compose
 - Clean Architecture
 - MVVM
+- Hilt
 - Koin
 - Navigation Component
-- Coroutines, Flow
+- Coroutines
+- Flow
 - Fragments
 - Room
 - SharedPreferences
